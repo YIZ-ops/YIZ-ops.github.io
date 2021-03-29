@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YIZ</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-28T15:15:28.503Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>YIZ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="http://example.com/2021/03/28/%E4%BD%A0%E5%A5%BD%E5%95%8A/"/>
+    <id>http://example.com/2021/03/28/%E4%BD%A0%E5%A5%BD%E5%95%8A/</id>
+    <published>2021-03-28T14:08:46.000Z</published>
+    <updated>2021-03-28T15:15:28.503Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="yiz"><a href="#yiz" class="headerlink" title="yiz"></a>yiz</h2><p>Hello!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;yiz&quot;&gt;&lt;a href=&quot;#yiz&quot; class=&quot;headerlink&quot; title=&quot;yiz&quot;&gt;&lt;/a&gt;yiz&lt;/h2&gt;&lt;p&gt;Hello!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
